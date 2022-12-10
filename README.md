@@ -5,6 +5,11 @@
 I like Data Analysis, Data Engineering .<br/>
 Also like solving tasks related to Statistics and A/B testing.<br/>
 
+**PROJECTS_**<br/>
+
+- [E-commerce project](https://github.com/ruslan-dubchak/E_commerce_project)<br/>
+- [A/B testing](https://github.com/ruslan-dubchak/A_B-testing)<br/>
+
 
 **STACK**<br/>
 - Python (Pandas, Seaborn, Matplotlib, SciPy, NumPy , Pingouin)
