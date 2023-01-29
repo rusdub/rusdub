@@ -17,10 +17,12 @@ Also like solving tasks related to Statistics and A/B testing.<br/>
 - SQL (ClickHouse,PostgreSQL)
 - Dbeaver 
 - A/B testing and statistics
-- BI systems (Tableau, Redash)
+- BI systems (Tableau, Redash,PBI)
 - Git
 - Airflow
 - Excel
+- DAX
+- PQ
 - PowerPoint
 
 
